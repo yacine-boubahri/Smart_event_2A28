@@ -1,0 +1,4 @@
+#ifndef WEBAXWIDGET_H
+#define WEBAXWIDGET_H
+
+#endif // WEBAXWIDGET_H
